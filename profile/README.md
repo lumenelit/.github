@@ -1,12 +1,44 @@
-## Welcome to Unklab Dine Dev Team's Github
+# Scientia Elit 
+## 
 
-<!--
+```bash
+$ echo introduction
 
-**Here are some ideas to get you started:**
+```
+## Division
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+```json
+
+Advisor : {
+   "Stenly Pungus" : "Fellow",
+},
+Software Engineering : {
+   Frontend : {
+      "Owen Ombuh" : "Senior Frontend Engineer - Principal",
+      "William Goeyana" : "Frontend Developer",
+      "Richard Jong" : "Frontend Developer",
+      "Marvel Sompotan" : "Frontend Developer",
+   },
+   Backend : {
+      "Edwin Hati" : "Technical Architect - Principal",
+      "Saylendra Yasin" : "Data Engineer",
+      "Richard Kandouw" : "Backend Developer",
+      "Benedict Tumewu" : "Backend Developer",
+   },
+},
+Product Management : {
+   "Prayer MG" : "Project Manager - Leader",
+   "Abram Mogandi" : "UI Designer",
+   "Ade Pricilia" : "UX Engineer",
+},
+Research, Development, and Operation : {
+   "Griffin Mumu": [
+       "Documentation Specialist",
+       "System Analyst",
+   ],
+},
+
+```
+
+## Our Projects
+[Unklab Dine](https://unklabdine.web.app)
