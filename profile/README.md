@@ -27,7 +27,7 @@ Software Engineering : {
    },
 },
 Product Management : {
-   "Prayer MG" : "Project Manager - Leader",
+   "Prayer MG" : "Project Manager - Principal",
    "Abram Mogandi" : "UI Designer",
    "Ade Pricilia" : "UX Engineer",
 },
