@@ -5,7 +5,7 @@
 $ echo introduction
 
 ```
-## Division
+## Organizational Structure
 
 ```json
 
@@ -14,20 +14,20 @@ Advisor : {
 },
 Software Engineering : {
    Frontend : {
-      "Owen Ombuh" : "Senior Frontend Engineer - Principal",
+      "Owen Ombuh" : "Senior Frontend Engineer",
       "William Goeyana" : "Frontend Developer",
       "Richard Jong" : "Frontend Developer",
       "Marvel Sompotan" : "Frontend Developer",
    },
    Backend : {
-      "Edwin Hati" : "Technical Architect - Principal",
+      "Edwin Hati" : "Technical Architect",
       "Saylendra Yasin" : "Data Engineer",
       "Richard Kandouw" : "Backend Developer",
       "Benedict Tumewu" : "Backend Developer",
    },
 },
 Product Management : {
-   "Prayer MG" : "Project Manager - Principal",
+   "Prayer MG" : "Project Manager",
    "Abram Mogandi" : "UI Designer",
    "Ade Pricilia" : "UX Engineer",
 },
