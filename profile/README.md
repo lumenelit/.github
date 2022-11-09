@@ -1,9 +1,9 @@
-# Scientia Elit 
-## 
+# Scientia Elit  
+
+<img src="https://github.com/scientiadev/.github/blob/46e10f7aded28326d2743297fd4840fbd5d9d686/profile/fikday2022.jpg" alt="drawing" width="600"/>
 
 ```bash
 $ echo introduction
-
 ```
 ## Organizational Structure
 
@@ -39,6 +39,5 @@ Research, Development, and Operation : {
 },
 
 ```
-
 ## Our Projects
 [Unklab Dine](https://unklabdine.web.app)
