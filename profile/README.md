@@ -12,6 +12,11 @@ $ echo introduction
 Advisor : {
    "Stenly Pungus" : "Fellow",
 },
+Product Management : {
+   "Prayer MG" : "Project Manager",
+   "Abram Mogandi" : "UI Designer",
+   "Ade Pricilia" : "UX Engineer",
+},
 Software Engineering : {
    Frontend : {
       "Owen Ombuh" : "Senior Frontend Engineer",
@@ -25,11 +30,6 @@ Software Engineering : {
       "Richard Kandouw" : "Backend Developer",
       "Benedict Tumewu" : "Backend Developer",
    },
-},
-Product Management : {
-   "Prayer MG" : "Project Manager",
-   "Abram Mogandi" : "UI Designer",
-   "Ade Pricilia" : "UX Engineer",
 },
 Research, Development, and Operation : {
    "Griffin Mumu": [
