@@ -1,6 +1,6 @@
 # Scientia Elit  
 
-<img src="https://github.com/scientiadev/.github/blob/46e10f7aded28326d2743297fd4840fbd5d9d686/profile/fikday2022.jpg" alt="drawing" width="600"/>
+<img src="https://raw.githubusercontent.com/scientiadev/.github/main/profile/1stgroupphoto.jpg" alt="drawing" width="800"/>
 
 ```bash
 $ echo introduction
