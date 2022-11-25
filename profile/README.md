@@ -22,13 +22,13 @@ Software Engineering : {
       "Owen Ombuh" : "Senior Frontend Engineer",
       "William Goeyana" : "Frontend Developer",
       "Richard Jong" : "Frontend Developer",
-      "Marvel Sompotan" : "Frontend Developer",
    },
    Backend : {
       "Edwin Hati" : "Technical Architect",
       "Saylendra Yasin" : "Data Engineer",
       "Richard Kandouw" : "Backend Developer",
       "Benedict Tumewu" : "Backend Developer",
+      "Marvel Sompotan" : "Frontend Developer",
    },
 },
 Research, Development, and Operation : {
@@ -40,4 +40,6 @@ Research, Development, and Operation : {
 
 ```
 ## Our Projects
-[Unklab Dine](https://unklabdine.web.app)
+[Unklab Dine](https://unklabdine.web.app),
+e-Skripsi,
+UBS Pre-Registration System
