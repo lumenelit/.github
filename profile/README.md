@@ -28,7 +28,7 @@ Software Engineering : {
       "Saylendra Yasin" : "Data Engineer",
       "Richard Kandouw" : "Backend Developer",
       "Benedict Tumewu" : "Backend Developer",
-      "Marvel Sompotan" : "Frontend Developer",
+      "Marvel Sompotan" : "Backend Developer",
    },
 },
 Research, Development, and Operation : {
