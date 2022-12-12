@@ -13,7 +13,7 @@ Advisor : {
    "Stenly Pungus" : "Fellow",
 },
 Product Management : {
-   "Prayer MG" : "Project Manager",
+   "Prayer MG" : "Solution Architect",
    "Abram Mogandi" : "UI Designer",
    "Ade Pricilia" : "UX Engineer",
    "Marvel Sompotan" : "UI/UX Staff",
