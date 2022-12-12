@@ -16,6 +16,7 @@ Product Management : {
    "Prayer MG" : "Project Manager",
    "Abram Mogandi" : "UI Designer",
    "Ade Pricilia" : "UX Engineer",
+   "Marvel Sompotan" : "UI/UX Staff",
 },
 Software Engineering : {
    Frontend : {
@@ -28,7 +29,6 @@ Software Engineering : {
       "Saylendra Yasin" : "Data Engineer",
       "Richard Kandouw" : "Backend Developer",
       "Benedict Tumewu" : "Backend Developer",
-      "Marvel Sompotan" : "Backend Developer",
    },
 },
 Research, Development, and Operation : {
