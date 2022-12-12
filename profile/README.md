@@ -30,6 +30,8 @@ Software Engineering : {
       "Richard Kandouw" : "Backend Developer",
       "Benedict Tumewu" : "Backend Developer",
    },
+   DevOps : {},
+   AI & Machine Learning : {},
 },
 Research, Development, and Operation : {
    "Griffin Mumu": [
